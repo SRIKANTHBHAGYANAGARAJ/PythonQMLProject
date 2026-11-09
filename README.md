@@ -13,8 +13,3 @@ To Run This Project first we need to install dependencies
 pip install PyQt5
 ```
 
-3. To Run This Project go to Project Directory  and simple run
-
-```python
-python main.py
-```
